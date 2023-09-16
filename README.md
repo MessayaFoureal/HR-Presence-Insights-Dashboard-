@@ -6,7 +6,7 @@ Human Resources (HR) has initiated a dashboard request aimed at acquiring compre
 
 **_Disclaimer:_** All data sets do not represent any real institution, company or country, It is data for learning purposes on real life requests for any Data Analyst.
 
-## Problem staement (HR Request)
+## Problem statement (HR Request)
 1. What is the percentage of employees presence for the past three months?
 2. What is the percentage of employees working from home for the last three months?
 3. What is the percentage of employees who took Sick leave?
@@ -18,7 +18,7 @@ Human Resources (HR) has initiated a dashboard request aimed at acquiring compre
 2. Data cleansing using:
    - Power BI Query to transform data   
 3. Matrix using DAX
-   - to answer Client(HR) questions or query like presence, working from and sick leaves percetages
+   - to answer Client(HR) questions or query like presence, working from and sick leaves percentages
 4. Measures
 5. Visualization
    - Tables
@@ -31,7 +31,7 @@ Human Resources (HR) has initiated a dashboard request aimed at acquiring compre
 ![](WFH_by_%.JPG)
 
    - and Card
-
+![](Card.JPG)
 
 Lesson leanrt:
  - Grouping measures under one place.
