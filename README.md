@@ -1,4 +1,4 @@
-# HR-Presence-Insights-Dashboard-
+# HR Presence Insights Dashboard
 ![](HR_mage_84.webp)
 ---
 ## Introduction 
@@ -33,7 +33,7 @@ Human Resources (HR) has initiated a dashboard request aimed at acquiring compre
    - and Card
 ![](Card.JPG)
 
-Lesson leanrt:
+Lesson learnt:
  - Grouping measures under one place.
  - Understanding how to calculate functions
 
@@ -44,7 +44,7 @@ Lesson leanrt:
 ![](HR_Analytics_themed_Dashboard.JPG)
 _You can interact with the report_ [here](https://app.powerbi.com/groups/me/reports/75ac8ff4-6759-4074-a868-9646f7f48c67/ReportSection?experience=power-bi)
 
-:bulb: Answering HR request questions and future insights (day, week and month).
+:bulb: Answering client(HR) request questions and future insights (day, week and month).
  - Total presence of employees in percentage.
  - Total percentage of employees working from home. 
  - Total percentage of employees taking sick leave.
